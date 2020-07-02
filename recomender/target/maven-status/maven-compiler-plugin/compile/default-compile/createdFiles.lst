@@ -1,0 +1,5 @@
+org\example\Recomendador.class
+org\example\RecomendaLivros.class
+org\example\RecomendadorBuilder.class
+org\example\RecomendaFilmes.class
+org\example\Avaliador.class
